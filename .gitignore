@@ -1,0 +1,28 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Env & secrets
+.env
+.env.*
+*.key
+*.pem
+firebase-adminsdk*.json
+
+# OS & editors
+.DS_Store
+.vscode/
+.idea/
+
+# Firebase / Cursor
+.idx/
+.modified
+
+# Logs & cache
+*.log
+.cache/
+.pytest_cache/
